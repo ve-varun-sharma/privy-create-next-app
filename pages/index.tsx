@@ -47,7 +47,6 @@ export default function LoginPage() {
         <div className="flex bg-privy-light-blue flex-1 p-6 justify-center items-center">
           <div>
             <div>
-              {/* <Portal style={{ maxWidth: "100%", height: "auto" }} /> */}
               <Image
                 src="/logos/ygg/ygg_logo.png"
                 alt="Background"
